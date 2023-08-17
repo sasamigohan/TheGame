@@ -1,0 +1,11 @@
+{LARGE_FILE} filter=lfs diff=lfs merge=lfs -text
+{Assets} filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/1e/1e2fd66ea829ee6eb71497557f637c49 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/2f/2f3e45bd3be639b02e498a138be8c2e5 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/cf/cf5e0e78b7799310a7c43879b13687f5 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/e4/e493b49dc1050b5615a2a6555eaa91b7 filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.4/.Runtime/libburst-llvm-14.dylib filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/7e/7ec16d3ca11f182c727aee558537251b filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/e7/e7339673b2633e9f69fcc679107d1843 filter=lfs diff=lfs merge=lfs -text
+C:/Users/個人（家庭専用）/Documents/Gaming/Library/Artifacts/1e/1e2fd66ea829ee6eb71497557f637c49 filter=lfs diff=lfs merge=lfs -text
